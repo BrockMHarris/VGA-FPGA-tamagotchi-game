@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="tamagotchi">
+		<CBX_INST_ENTRY INSTANCE_NAME="|tamagotchi|Display:inst2|MUX:inst17|lpm_mux:$00001" CBX_FILE_NAME="mux_coc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tamagotchi|Display:inst2|dead:inst11|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_rr61.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tamagotchi|Display:inst2|lpm_mux0:inst4|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_o4e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tamagotchi|Display:inst2|reset_rom:inst6|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_uf71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tamagotchi|Display:inst2|state_1_rom:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_u471.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tamagotchi|Display:inst2|state_2_rom:inst7|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_v471.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tamagotchi|Display:inst2|state_4_rom:inst9|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_0571.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|tamagotchi|keyboardTopLevel:inst8|lpm_rom0:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_uf71.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
